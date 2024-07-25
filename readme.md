@@ -2,6 +2,8 @@
 real world data ----
 https://rruff.info/ima/ minerals_rruf_ima 
 
+https://www.bearboat.net/TerminologiaAnatomicaTA2/TerminologiaAnatomicaTA2.html anatomy opml Terminologia Anatomica 
+
 
 bibles --  
 https://github.com/lukesmithxyz/vul clementine vulgate bible
@@ -26,3 +28,19 @@ https://latin-dict.github.io/dictionaries/Simpson1959.html simpsons Simpson1959 
 https://latin-dict.github.io/dictionaries/Doederlein1874.html synonyms Doederlein1874
 
 https://latin-dict.github.io/dictionaries/Blatt1997.html medieval latin vocab with some german and danish Blatt1997
+
+
+
+
+plants notes- 
+https://www.reddit.com/r/botany/comments/yjw114/question_any_free_resource_for_plant_database/
+https://plants.usda.gov/csvdownload?plantLst=plantCompleteList
+https://wfoplantlist.org/ 
+https://collections.nmnh.si.edu/search/botany/
+
+https://www.catalogueoflife.org/data/download
+https://github.com/CatalogueOfLife/coldp/blob/master/README.md#namerelation
+
+zoology notes----
+
+TODO
