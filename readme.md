@@ -30,6 +30,16 @@ https://latin-dict.github.io/dictionaries/Doederlein1874.html synonyms Doederlei
 https://latin-dict.github.io/dictionaries/Blatt1997.html medieval latin vocab with some german and danish Blatt1997
 
 
+latin-english phrases----------: will have to parse these datasets
+
+https://en.wikipedia.org/wiki/List_of_Latin_phrases
+
+
+
+
+
+
+
 
 
 taxonomy notes- 
@@ -66,4 +76,6 @@ https://opentraits.org/datasets.html
 
 
 https://animaltraits.org/ simple body mass data for animals 
+
+
 
