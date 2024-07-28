@@ -33,7 +33,7 @@ https://latin-dict.github.io/dictionaries/Blatt1997.html medieval latin vocab wi
 latin-english phrases----------: will have to parse these datasets
 
 https://en.wikipedia.org/wiki/List_of_Latin_phrases
-
+https://en.wikipedia.org/wiki/List_of_Latin_legal_terms
 
 
 
@@ -44,6 +44,8 @@ https://en.wikipedia.org/wiki/List_of_Latin_phrases
 
 taxonomy notes- 
 WFO, EOL, COL  provide decent data downloads, but they are very large and may require processing
+
+EOL is a superset of COL, and seems to be ideal. Attempt using its cypher API
 
 https://www.reddit.com/r/botany/comments/yjw114/question_any_free_resource_for_plant_database/ - mentions deent resources
 https://plants.usda.gov/csvdownload?plantLst=plantCompleteList -- easy list but not very informative
